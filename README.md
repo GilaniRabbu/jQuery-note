@@ -36,7 +36,7 @@
 ```js
 var a = 10;
 var b = "10";
-console.log(a + b); // Output 20
+console.log(a + + b); // Output 20
 
 if (a == b) {
     console.log("some kind of text"); // Output true
